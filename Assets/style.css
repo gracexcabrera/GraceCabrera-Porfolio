@@ -26,9 +26,28 @@ body {
     padding: 0px 20px
 }
 
-.computer {
+.image {
+    height: 200px;
+}
+
+
+.self-portriat {
+    display: block;
     height: 300px;
     margin-bottom: 10px;
-    justify-content: left;
-    background-image: url("./Assets/computer-img.webp");
+    border-radius: 70px;
+    float: left;
+}
+
+.section {
+    align-items: left;
+    padding-top: 100px;
+    display: left;
+}
+
+.about-me{
+    float:left;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
